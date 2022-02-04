@@ -21,8 +21,6 @@ body {
   height: 150px;
 }
 
-/* TRANSITIONS */
-
 .text-shadow {
   color: rgb(192, 123, 93);
   font-size: 50px;
@@ -77,8 +75,6 @@ body {
   transform: scale(1.2, 0.8);
   box-shadow: 0 16px 16px -12px rgba(0, 0, 0, 0.5);
 }
-
-/* SPINNER */
 
 .hi {
   position: absolute;
